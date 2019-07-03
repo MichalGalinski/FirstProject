@@ -1,0 +1,15 @@
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\App.g.cs
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject_MarkupCompile.cache
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\MainWindow.g.cs
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject_MarkupCompile.lref
+C:\Users\Michał\Desktop\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Michał\Desktop\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Michał\Desktop\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\MainWindow.baml
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.g.resources
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Michał\Desktop\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
